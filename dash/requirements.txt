@@ -2,5 +2,7 @@ dash
 dash-core-components
 dash-html-components
 dash-renderer
+joblib
+scikit-learn
 gunicorn>=19.7.1
 
